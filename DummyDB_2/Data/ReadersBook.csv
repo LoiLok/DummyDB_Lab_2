@@ -1,0 +1,4 @@
+ReaderId;BookId;BorrowTime;ReturnTime
+1;1;2022.01.01;2022.01.07
+2;2;2023.01.01
+3;3;2023.10.16
